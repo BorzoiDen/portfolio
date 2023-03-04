@@ -7,12 +7,12 @@
 @media (max-width: 730px) {
     .skills__item{
         flex: 1 1 100%;
+        max-width: 100%;
     }
 }
 
 .skills__itemBody{
     display: flex;
-    margin: 0 -15px;
     flex-direction: column;
     gap: 20px;
     padding: 10px 0;

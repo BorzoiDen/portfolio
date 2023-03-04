@@ -42,6 +42,7 @@ ul li {
 .skills{
     background-color: #1a7a98;
     height: 100vh;
+    width: 100%;
 }
 
 @media( max-width: 730px) {
@@ -59,15 +60,8 @@ ul li {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 120px 10px;
+    padding: 120px 10px 30px 10px;
 }
-
-@media( max-width: 730px) {
-    .skills__body{
-        padding: 60px 0;
-    }
-}
-
 
 .skills__title{
     text-shadow: 2px 2px 2px rgba(0,0,0,0.5);
@@ -89,6 +83,7 @@ ul li {
 @media (max-width: 730px) {
     .skills__items{
         flex-wrap: wrap;
+        align-items: center;
     }
 }
 
