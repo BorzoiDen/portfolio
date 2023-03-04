@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ad65fab3.css",
+    "main.js": "/portfolio/static/js/main.ca4ad412.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/React-icon.svg.png": "/portfolio/static/media/React-icon.svg.81ed438b18e24116794d.png",
+    "static/media/1200px-Old_Cartoon_Man_Using_A_Big_Computer.svg.png": "/portfolio/static/media/1200px-Old_Cartoon_Man_Using_A_Big_Computer.svg.b1ad02aa8b4a67d06604.png",
+    "static/media/social.webp": "/portfolio/static/media/social.dc847bfef90fd1ae0ab5.webp",
+    "static/media/HTM.png": "/portfolio/static/media/HTM.4de5d2224c60b7fbde73.png",
+    "static/media/todo.jpg": "/portfolio/static/media/todo.3d4e5c2d17728b78fcd2.jpg",
+    "static/media/css.png": "/portfolio/static/media/css.4a6549b8c2b4cda8bb88.png",
+    "static/media/javascript-2038874-1720087.webp": "/portfolio/static/media/javascript-2038874-1720087.bb41b35e77975f0c88b0.webp",
+    "index.html": "/portfolio/index.html",
+    "main.ad65fab3.css.map": "/portfolio/static/css/main.ad65fab3.css.map",
+    "main.ca4ad412.js.map": "/portfolio/static/js/main.ca4ad412.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad65fab3.css",
+    "static/js/main.ca4ad412.js"
+  ]
+}
